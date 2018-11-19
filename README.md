@@ -1,2 +1,2 @@
 # ios-playground
-Repo containing sample projects from tutorials I have done. Some may not be finished. 
+Repo containing sample projects from tutorials I have done. Some project may not be finished. 
